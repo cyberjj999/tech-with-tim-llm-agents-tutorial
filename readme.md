@@ -6,4 +6,4 @@ Following YouTube Series:
 
 ## Project Breakdown
 
-Using Ollama and Llamaindex to create AI agent to create code based on API documentations.
+Using Ollama and Llamaindex to create AI agent to write Python code based on API documentations.
